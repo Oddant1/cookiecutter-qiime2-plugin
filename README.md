@@ -1,4 +1,5 @@
 # QIIME 2 Plugin [Cookiecutter](https://cookiecutter.readthedocs.io/) template
+# AM I GETTING THE RIGHT BRANCH
 
 This is a cookiecutter template for creating new QIIME 2 plugins.
 To learn how to use this, refer to the [Plugin Development Tutorial](https://develop.qiime2.org/en/latest/plugins/tutorials/intro.html) in *Developing with QIIME 2* (https://develop.qiime2.org).
